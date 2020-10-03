@@ -17,3 +17,7 @@ print("Hello World5")
 
 # Upates on main branch of GitHub
 print("Hello World Updates on GitHub")
+
+
+#Upates in local master branch
+print("Hello World Upates on Local Master Branch")
